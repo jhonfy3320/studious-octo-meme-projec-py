@@ -1,0 +1,27 @@
+Resumen del Curso de Python (Estructurado)
+
+1.  Fundamentos de Python
+    -   Sintaxis básica, indentación y comentarios.
+    -   Tipos de datos: strings, números, listas, tuplas, conjuntos y
+        diccionarios.
+    -   Conversión y manipulación de tipos.
+2.  Control de Flujo
+    -   Condicionales: if, elif, else.
+    -   Operadores lógicos: and, or, not.
+    -   Sentencia match para comparación de patrones.
+3.  Bucles y Estructuras Repetitivas
+    -   Bucle while y uso de break y continue.
+    -   Bucle for para recorrer secuencias.
+4.  Funciones
+    -   Definición, argumentos, return.
+    -   Funciones lambda.
+    -   Fábricas de funciones (closures).
+5.  Manejo de Errores
+    -   try, except, finally.
+    -   Múltiples excepciones.
+6.  Módulos
+    -   Importación de código desde múltiples archivos.
+    -   Organización de proyectos en Python.
+
+Este resumen cubre los conceptos esenciales del curso vistos hasta
+ahora.
